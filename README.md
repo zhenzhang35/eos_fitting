@@ -1,6 +1,6 @@
 # `eos_fitting`
 
-[TOC]
+
 
 ## Introduction
 
